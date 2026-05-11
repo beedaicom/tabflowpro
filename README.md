@@ -15,7 +15,7 @@ A clean, modern browser extension to organize, save, restore, and automate your 
   </a>
 </p>
 
-<img src="assets/TFP-01.png" alt="TabFlow Pro" width="100%">
+<img src="assets/tfp-01.png" alt="TabFlow Pro" width="100%">
 
 </div>
 
@@ -65,9 +65,9 @@ Instantly save your current browser session.
 
 ## 📸 Screenshots
 
-<img src="assets/TFP-02.png" width="100%">
+<img src="assets/tfp-02.png" width="100%">
 <br><br>
-<img src="assets/TFP-03.png" width="100%">
+<img src="assets/tfp-03.png" width="100%">
 
 ---
 
